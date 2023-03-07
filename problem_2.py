@@ -28,9 +28,11 @@ Os números são..: 12 13 17
 
 """
 
+from library_problem_2 import valores
 
 def main():
-    pass  # your code here
+
+    valores()
 
 
 if __name__ == '__main__':

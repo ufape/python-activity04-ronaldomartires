@@ -29,9 +29,11 @@ Teste 3: 7
 7 é primo.
 """
 
+from library_problem_5 import teste_numero_primo
 
 def main():
-    pass  # your code here
+
+    teste_numero_primo()
 
 
 if __name__ == '__main__':

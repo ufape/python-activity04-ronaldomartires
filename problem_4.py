@@ -29,9 +29,11 @@ Teste 3: 28
 28 é perfeito.
 """
 
+from library_problem_4 import teste
 
 def main():
-    pass  # your code here
+
+    teste()
 
 
 if __name__ == '__main__':
